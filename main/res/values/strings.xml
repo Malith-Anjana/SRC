@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ceylon Travel</string>
+    <string name="label_buy_now"> Confirm Payment </string>
+    <string name="Open">open</string>
+    <string name="Close">close</string>
+
+</resources>
